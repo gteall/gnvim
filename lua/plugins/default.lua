@@ -23,4 +23,4 @@ require("indent_blankline").setup {
     space_char_blankline = " ",
 }
 -- require('dashboard').setup()
-require('spectre').setup()
+-- require('spectre').setup()

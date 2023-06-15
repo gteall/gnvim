@@ -20,4 +20,4 @@ require("plugins.lsp")
 -- 格式化
 -- require("lsp.formatter")
 -- require("lsp.null-ls")
-
+require("plugins.gitsigns")

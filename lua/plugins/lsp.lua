@@ -90,3 +90,6 @@ require("lspconfig").clangd.setup {
         navic.attach(client, bufnr)
     end
 }
+
+map("n", "<leader>ss", "<cmd>SymbolsOutline<cr>", { desc = "Toggle SymbolsOutline" })
+
